@@ -17,7 +17,7 @@ ul.inline {
 .sponsors li:hover {
 	border-color: #c5c5c5;
 }
-.sponsors li {
+.sponsors li b {
 	text-align: center;
 	padding: 0;
 	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
